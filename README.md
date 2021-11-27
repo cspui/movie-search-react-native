@@ -13,3 +13,4 @@
 - Coded in <img style="max-width: 100%; max-height: 100%; width:100px; height:100px;" src="{https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E}" />  <img src="{https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB}" /> 
 - Tools: <img src="{https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white}" />
 
+<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" /> | `https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white`
