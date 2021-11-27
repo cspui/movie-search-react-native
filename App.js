@@ -1,21 +1,37 @@
-import { StatusBar } from 'expo-status-bar';
 import React from 'react';
-import { StyleSheet, Text, View } from 'react-native';
+import {
+  BrowserRouter as Router,
+  Switch,
+  Route,
+} from "react-router-dom";
+import Home from './components/Home';
+import Movie from './components/Movie';
+
+/*
+  How to run:
+  platform: ios, android, web
+  npm run-script start
+
+  expo start --[platform]
+*/
 
 export default function App() {
   return (
-    <View style={styles.container}>
-      <Text>Open up App.js to start working on your app!</Text>
-      <StatusBar style="auto" />
-    </View>
+    <Router>
+
+      <Switch>
+        <Route path="/" exact>
+          <Home></Home>
+        </Route>
+
+        <Route path="/movie" exact>
+          <Movie></Movie>
+        </Route>
+
+      </Switch>
+    </Router>
   );
 }
 
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    backgroundColor: '#fff',
-    alignItems: 'center',
-    justifyContent: 'center',
-  },
-});
+
+
