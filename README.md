@@ -10,6 +10,6 @@
 7. 🎉 Congratulations you have succesfully hosted the application.
 
 ## 📙 About
-- Coded in <img src="{https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E}" />  <img src="{https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB}" /> 
+- Coded in <img width="50px" src="{https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E}" />  <img src="{https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB}" /> 
 - Tools: <img src="{https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white}" />
 
